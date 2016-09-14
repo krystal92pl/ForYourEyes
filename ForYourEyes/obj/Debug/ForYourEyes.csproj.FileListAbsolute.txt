@@ -1,0 +1,72 @@
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.exe.config
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.csprojResolveAssemblyReference.cache
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.BreakWindow.resources
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.MainWindow.resources
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.Properties.Resources.resources
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.csproj.GenerateResource.Cache
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\Images\0.gif
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\Images\1.gif
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\Images\2.gif
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\Images\3.gif
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\Images\4.gif
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.exe
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.pdb
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\MetroFramework.Design.dll
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\MetroFramework.dll
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.exe
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.pdb
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\Sounds\BreakWindow.wav
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes\ForYourEyes\bin\Debug\Images\ForYourEyes.ico
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.exe.config
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.exe
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.pdb
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.BreakWindow.resources
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.MainWindow.resources
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.Properties.Resources.resources
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.csproj.GenerateResource.Cache
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\bin\Debug\Images\0.gif
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\bin\Debug\Images\1.gif
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\bin\Debug\Images\2.gif
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\bin\Debug\Images\3.gif
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\bin\Debug\Images\4.gif
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\bin\Debug\Images\ForYourEyes.ico
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\bin\Debug\Sounds\BreakWindow.wav
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.exe
+C:\Users\Basia\Desktop\ForYourEyes z property\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.pdb
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.exe.config
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.exe
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.pdb
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\0.gif
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\1.gif
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\2.gif
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\3.gif
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\4.gif
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\ForYourEyes.ico
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Sounds\BreakWindow.wav
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.exe
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.pdb
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.csprojResolveAssemblyReference.cache
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.BreakWindow.resources
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.MainWindow.resources
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.Properties.Resources.resources
+C:\Users\Basia\Desktop\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.csproj.GenerateResource.Cache
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.exe.config
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.exe
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.pdb
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\0.gif
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\1.gif
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\2.gif
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\3.gif
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\4.gif
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Images\ForYourEyesIcon.ico
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.exe
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\ForYourEyes.pdb
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.csprojResolveAssemblyReference.cache
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.BreakWindow.resources
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.MainWindow.resources
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.Properties.Resources.resources
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.csproj.GenerateResource.Cache
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\obj\Debug\ForYourEyes.csproj.ResolveComReference.cache
+C:\Users\Basia\Desktop\INZYNIERKA\ForYourEyes WERSJA OSTATECZNA\ForYourEyes\ForYourEyes\bin\Debug\Sounds\BreakWindow.wav
